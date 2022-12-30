@@ -7,7 +7,8 @@ Download all the files present in the repository.
 
 Make sure the Pygame Library is installed on your system.
 
-If not installed, run the following command:-\n
+If not installed, run the following command:-
+
 "pip initall pygame"
 
 Run the main_game.py file using an IDE.
